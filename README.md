@@ -10,6 +10,8 @@
 01:05 Synchronous Blocking Behavior
 10:28 Asynchronous
 20:20 Flow control problem
+29:00 callback hell + Promise
+40:32 multiple promise
 ```
 
 </details>
