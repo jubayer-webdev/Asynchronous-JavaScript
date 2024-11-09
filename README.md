@@ -18,6 +18,8 @@
 48:39 (Promise.race)
 
 50:55 async-await
+
+01:01:35 Summary
 ```
 
 </details>
