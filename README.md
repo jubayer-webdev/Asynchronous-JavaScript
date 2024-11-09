@@ -4,7 +4,7 @@
 
 <details>
 
-## <summary>Timeline</summary>
+<summary>Timestamp</summary>
 
 ```
 01:05 Synchronous Blocking Behavior
