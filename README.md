@@ -8,10 +8,16 @@
 
 ```
 01:05 Synchronous Blocking Behavior
+
 10:28 Asynchronous
 20:20 Flow control problem
+
 29:00 callback hell + Promise
 40:32 multiple promise
+45:14 (Promise.all) get a result from all promise
+48:39 (Promise.race)
+
+50:55 async-await
 ```
 
 </details>
